@@ -1,0 +1,55 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color:#000000;
+    padding: 15px;
+    font-size: 20px;
+    font-family:monospace;
+    font-weight: 400;
+    color: #ffffff;
+}
+body{
+    margin: 0px;
+    /* modify background color here*/
+    background-color: rgb(232, 174, 232);
+    
+}
+
+.title{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+}
+
+.bodyimg{
+    color:purple;
+    font-family:monospace;
+    font-size: 20px;
+    margin: 10px;
+
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px;
+    font-family: sans-serif;
+    
+}
+.grid img{
+    border: 2px solid #000000;
+    border-radius: 50px;
+}
+.origami {
+    
+    border-radius: 20px;
+    background-color: #ffffff;
+    /* modify margin and padding here*/
+    padding: 30px;
+    margin: 40px;
+    width:310px;
+   font-family:Helvetica ;
+   font-style: inherit;
+   font-feature-settings: "vrt2";
+   font-stretch: narrower;
+
+    
+}
